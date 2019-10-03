@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/System_Configuration_Search",
+    "name": "OpenMageModuleFostering\/System_Configuration_Search",
     "type": "magento-module",
     "license": "MIT",
     "homepage": "",
     "description": "This extension installs a search form that allows you to quickly find System Configuration fields.",
     "authors": [
-    {
-        "name": "Alan Storm",
-        "email": "astorm@alanstorm.com"
-    }
-],
+        {
+            "name": "Alan Storm",
+            "email": "astorm@alanstorm.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
